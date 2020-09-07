@@ -1,2 +1,3 @@
+Sitemap: https://britswho.design/sitemap.xml
 User-agent: *
 Allow:
